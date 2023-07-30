@@ -3,7 +3,7 @@ const getMiddle = (s) => {
 
   const middle = parseInt(s.length / 2, 10);
 
-  return `${s[middle]}${s[middle - 1]}`;
+  return `${s[middle - 1]}${s[middle]}`;
 };
 
 module.exports = {
