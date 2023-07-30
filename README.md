@@ -1,8 +1,8 @@
-# XXXXX kata
+# Get the Middle Character kata
 
-XXXXX kata performed by to practice TDD for the Jaguars training at IBM
+Get the Middle Character kata performed by to practice TDD for the Jaguars training at IBM
 
-[XXXXXX on CodeWars](https://www.codewars.com/kata/)
+[Get the Middle Character on CodeWars](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
 ## Prerequisites
 

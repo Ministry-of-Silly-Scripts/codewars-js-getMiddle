@@ -1,5 +1,5 @@
-const { placeholder } = require('../src/index');
+const { getMiddle } = require('../src/index');
 
-test('placeholder', () => {
-  expect(placeholder(0)).toBe(true);
+test('getMiddle', () => {
+  expect(getMiddle(0)).toBe(true);
 });

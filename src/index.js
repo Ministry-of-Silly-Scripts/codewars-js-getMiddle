@@ -1,5 +1,5 @@
-const placeholder = () => true;
+const getMiddle = () => true;
 
 module.exports = {
-  placeholder,
+  getMiddle,
 };
