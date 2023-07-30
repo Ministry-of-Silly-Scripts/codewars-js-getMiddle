@@ -10,4 +10,8 @@ describe('getMiddle', () => {
   it('should return "A" for input equalt to "A"', () => {
     expect(getMiddle('A')).toBe('A');
   });
+
+  it('should return "b" for input equalt to "AbA"', () => {
+    expect(getMiddle('AbA')).toBe('b');
+  });
 });

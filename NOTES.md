@@ -49,3 +49,4 @@ TODO:
 - domain discussion ✅
 - perform the 'canary' test just to check if the structure works ✅
 - it should return 'A' for input equal to 'A' ✅
+- it should return 'b' for input equal to 'AbA' ✅
