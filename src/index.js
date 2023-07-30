@@ -1,5 +1,5 @@
 const getMiddle = (s) => {
-  if (s.length >= 3) return s[1];
+  if (s.length % 2 === 1) return s[parseInt(s.length / 2, 10)];
   return s;
 };
 
