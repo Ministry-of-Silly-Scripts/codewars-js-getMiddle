@@ -51,3 +51,4 @@ TODO:
 - it should return 'A' for input equal to 'A' ✅
 - it should return 'b' for input equal to 'AbA' ✅
 - it should return 't' for input equal to 'testing' ✅
+- it should return 'aa' for input equal to 'aa' ✅
