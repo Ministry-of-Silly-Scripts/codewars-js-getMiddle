@@ -1,4 +1,4 @@
-const getMiddle = () => true;
+const getMiddle = (s) => s;
 
 module.exports = {
   getMiddle,

@@ -6,6 +6,8 @@ describe('the getMiddle canary spec', () => {
   });
 });
 
-test('getMiddle', () => {
-  expect(getMiddle(0)).toBe(true);
+describe('getMiddle', () => {
+  it('should return "A" for input equalt to "A"', () => {
+    expect(getMiddle('A')).toBe('A');
+  });
 });

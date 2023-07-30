@@ -48,3 +48,4 @@ TODO:
     - update code/test files ✅
 - domain discussion ✅
 - perform the 'canary' test just to check if the structure works ✅
+- it should return 'A' for input equal to 'A' ✅
