@@ -22,8 +22,14 @@ A word (string) of length 0 < str < 1000 (In javascript you may get slightly mor
 The middle character(s) of the word represented as a string. 
 
 ## Domain
+- word
+- middle character
 
 ### Rules
+- input: word (string) - length 0 < str < 1000
+- output: 
+    - length: odd -> middle character
+    - length: even -> middle 2 characters
 
 ---
 
@@ -40,3 +46,4 @@ TODO:
     - update NOTES ✅
     - update package.json ✅
     - update code/test files ✅
+- domain discussion ✅
